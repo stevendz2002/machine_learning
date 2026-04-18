@@ -1,5 +1,8 @@
 # Clasificador de Anime: Dragon Ball vs Attack on Titan
-
+- Andres David Guevara Martinez 230231022
+- Nicolas Gutirrez Escudero 230231029
+- Sebastian Morales Flores 230231002
+- Jhon Edward Steven loaiza diaz 230231046
 Este proyecto implementa un modelo de Machine Learning para clasificar imagenes en dos categorias:
 
 - Dragon Ball
